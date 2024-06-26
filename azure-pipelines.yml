@@ -1,5 +1,5 @@
 pool:
-  name: Default
+  name: server1
 steps:
 - task: Maven@4
   inputs:
