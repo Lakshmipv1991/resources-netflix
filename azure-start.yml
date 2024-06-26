@@ -1,7 +1,7 @@
 
 
 trigger:
-- main
+- server1
 stages:
 - stage: Build
   jobs:
