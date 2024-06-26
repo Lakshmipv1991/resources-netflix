@@ -1,5 +1,5 @@
 pool:
-  name: build-env-servers
+  name: server1
 steps:
 - task: Maven@4
   inputs:
