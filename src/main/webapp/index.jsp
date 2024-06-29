@@ -14,8 +14,9 @@
             justify-content: center;
             height: 100vh;
             font-family: 'Frank Ruhl Libre', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-            /*  color: #e50914; */
             color: #FFFF00;  
+            /*  color: #e50914; */
+            
         }
 
         h1 {
